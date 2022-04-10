@@ -1,0 +1,145 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto';
+    background-color: #010001;
+}
+
+h1 {
+    color: #fff;
+}
+
+h2 {
+    color: #fff;
+}
+
+p {
+    color: #fff;
+}
+
+.conteiner {
+    width: 1187px;
+    margin: 0 auto;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #808080;
+}
+
+.header {
+    margin-top: 55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-1__header {
+    padding-left: 20px;
+}
+
+.text__section {
+    display: inline-block;
+    margin-top: 109px;
+    margin-left: 340px;
+
+}
+
+.h1__section {
+    font-size: 64px;
+    display: flex;
+    justify-content: center;
+}
+
+.p__section {
+    font-size: 16px;
+}
+
+.worlds-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-2 {
+    position: absolute;
+    top: 1865px;
+}
+
+.Falcon {
+    width: 177px;
+    padding-bottom: 45px;
+    line-height: 40px;
+}
+
+.jjj {
+    display: flex;
+}
+
+.h2-text-2 {
+    padding-left: 130px;
+    font-size: 24,5px;
+}
+
+.section-2-img {
+    position: absolute;
+    left: 1000px;
+    top: 1307px;
+}
+
+.h2-section-3 {
+    font-size: 24,5px;
+    width: 173px;
+    padding-bottom: 24px;
+    line-height: 40px;
+}
+
+.p-section-3 {
+    width: 490px;
+    word-spacing: 4px;
+    line-height: 29px;
+}
+
+.section-3 {
+    position: absolute;
+    top: 2443px;
+}
+
+footer {
+    position: absolute;
+    top: 3214.16px;
+}
+
+.foter-logo {
+    position: absolute;
+    left: 580px;
+    margin-bottom: 40px;
+}
+
+.footer-t {
+    display: flex;
+    position: absolute;
+    left: 340px;
+    padding-top: 23px;
+}
+
+.footer-2 {
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.text__footer {
+    color: #808080;
+    font-size: 18px;
+    margin-left: 420px;
+    padding-top: 46px;
+    padding-bottom: 40px;
+}
